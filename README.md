@@ -47,8 +47,8 @@
 ---
 
 ## 📊 GitHub 統計
-![Yu Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=radical)  
+![Yu Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CGHoudini69&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGHoudini69&layout=compact&theme=radical)  
 
 ---
 
